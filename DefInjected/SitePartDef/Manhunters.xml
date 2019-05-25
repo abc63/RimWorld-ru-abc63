@@ -9,6 +9,6 @@
   <Manhunters.arrivedLetter>В этом месте бродит стая аргессивных животных.</Manhunters.arrivedLetter>
   
   <!-- UNUSED -->
-  <Manhunters.descriptionDialogue>рядом бродят агрессивные {1} в количестве {0} штук</Manhunters.descriptionDialogue>
+  <Manhunters.descriptionDialogue>рядом ^Number( {0} | 'бродит # {1_gender ? агрессивный : агрессивная} {1}' | 'бродят # агрессивных {1[2]}' | 'бродят # агрессивных {1[4]}')^</Manhunters.descriptionDialogue>
   
 </LanguageData>
